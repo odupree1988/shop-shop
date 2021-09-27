@@ -20,8 +20,8 @@ An ecommerce site for a variety of goods. Allows you to search by category, and 
 
 Once on the website, you can log in or sign up if you have not created an account. You can search for items by category, or just view the general product page. Clicking an item will take you to a single item view with a product description. 
 
-![](client/src/shop01.png)
-![](client/src/shop02.png)
+![](client/src/assets/shop01.png)
+![](client/src/assets/shop02.png)
 
 ---
 
